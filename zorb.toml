@@ -1,0 +1,9 @@
+[package]
+name = "@crypto/aes-gcm"
+version = "0.1.0"
+edition = "2026"
+description = "AES-256-GCM Authenticated Encryption for Zeta — pure Zeta implementation of AES in Galois/Counter Mode per NIST SP 800-38D"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/murphsicles/zeta-aes-gcm"
+keywords = ["aes", "aes-gcm", "aead", "encryption", "cryptography", "authenticated-encryption"]
+categories = ["cryptography"]
